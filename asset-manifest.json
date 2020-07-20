@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/crudapi-js.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/crudapi-js.github.io/static/js/main.632c5abd.chunk.js",
+    "main.js.map": "/crudapi-js.github.io/static/js/main.632c5abd.chunk.js.map",
+    "runtime-main.js": "/crudapi-js.github.io/static/js/runtime-main.ce96db21.js",
+    "runtime-main.js.map": "/crudapi-js.github.io/static/js/runtime-main.ce96db21.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/crudapi-js.github.io/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.55f572f7.chunk.js": "/crudapi-js.github.io/static/js/2.55f572f7.chunk.js",
+    "static/js/2.55f572f7.chunk.js.map": "/crudapi-js.github.io/static/js/2.55f572f7.chunk.js.map",
+    "index.html": "/crudapi-js.github.io/index.html",
+    "precache-manifest.219e70e48c9dc11164c59d27de7afff2.js": "/crudapi-js.github.io/precache-manifest.219e70e48c9dc11164c59d27de7afff2.js",
+    "service-worker.js": "/crudapi-js.github.io/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/crudapi-js.github.io/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/crudapi-js.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.55f572f7.chunk.js.LICENSE.txt": "/crudapi-js.github.io/static/js/2.55f572f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce96db21.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.55f572f7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.632c5abd.chunk.js"
+  ]
+}

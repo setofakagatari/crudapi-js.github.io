@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crudapi-js.github.io/precache-manifest.219e70e48c9dc11164c59d27de7afff2.js"
+  "/crudapi-js.github.io/precache-manifest.ee9b92c47957e4d4d4c8e1a7fd47e9ec.js"
 );
 
 self.addEventListener('message', (event) => {

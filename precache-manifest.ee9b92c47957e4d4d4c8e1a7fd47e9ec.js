@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ff9862a78dc322affe63d5f208813e2",
+    "revision": "7f5343b2ab1264dce2260f38778684cb",
     "url": "/crudapi-js.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crudapi-js.github.io/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "cb7616510a6b3eecf786",
+    "revision": "0f3eb3aa04c3292af676",
     "url": "/crudapi-js.github.io/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crudapi-js.github.io/static/js/2.55f572f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb7616510a6b3eecf786",
-    "url": "/crudapi-js.github.io/static/js/main.632c5abd.chunk.js"
+    "revision": "0f3eb3aa04c3292af676",
+    "url": "/crudapi-js.github.io/static/js/main.de5001d9.chunk.js"
   },
   {
     "revision": "ffb52a37e35c6eb6649d",
